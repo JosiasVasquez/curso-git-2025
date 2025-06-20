@@ -10,3 +10,5 @@ Este es un párrafo.
 - elemento 4
 
 [Mi prueba](prueba.md)
+
+[César Sesma](https://cesarsesma.github.io/curso-git/)
