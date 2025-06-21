@@ -10,3 +10,5 @@ Este es un párrafo.
 - elemento 4
 
 [Mi prueba](prueba.md)
+
+Comentario de muestra para 5ta actividad del curso.
